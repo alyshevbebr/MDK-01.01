@@ -1,0 +1,12 @@
+{
+    "classes": {
+        "class_1": {
+            "students": ["Alice", "Bob"],
+            "teacher": "Mr. Smith"
+        },
+        "class_2": {
+           "students": ["Charlie", "David","Petya"],
+            "teacher": "Mr. Johnson" 
+        }
+    }
+}
